@@ -24,8 +24,7 @@
   },
   "os": [
     "darwin",
-    "linux",
-    "win32"
+    "linux"
   ],
   "dependencies": {
     "debug": "~2.2.0"
